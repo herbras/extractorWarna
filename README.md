@@ -6,7 +6,7 @@ Selamat datang di Interface API Ekstraktor Warna. Alat ini dirancang buat kamu y
 
 ### Mau pakai alat kita? Gampang kok, ikutin langkah-langkah ini
 
--     Pilih Gambar Favoritmu: Cari gambar yang pengen kamu ekstrak warnanya. Bisa apa aja yang kamu suka - seni, foto, atau gambar lainnya.
--      Masukkan Link Gambar: Taruh link gambar itu di input yang udah disediakan.
--     Klik 'Ekstrak Warna': Tekan tombol ekstrak dan tunggu sebentar.
--     Lihat Hasilnya: Voila! Warna-warna dari gambarmu bakal muncul. Kamu bisa copy-paste warnanya, atau (masih dalam proses) nanti bakal ada fitur buat bikin template website dengan warna tersebut.
+- Pilih Gambar Favoritmu: Cari gambar yang pengen kamu ekstrak warnanya. Bisa apa aja yang kamu suka - seni, foto, atau gambar lainnya.
+- Masukkan Link Gambar: Taruh link gambar itu di input yang udah disediakan.
+- Klik 'Ekstrak Warna': Tekan tombol ekstrak dan tunggu sebentar.
+- Lihat Hasilnya: Voila! Warna-warna dari gambarmu bakal muncul. Kamu bisa copy-paste warnanya, atau (masih dalam proses) nanti bakal ada fitur buat bikin template website dengan warna tersebut.
