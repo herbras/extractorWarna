@@ -1,0 +1,1 @@
+<script>import "../app.pcss";</script><main class="mx-5 mb-2 lg:mb-12 lg:px-9 py-auto"><slot></slot></main>
